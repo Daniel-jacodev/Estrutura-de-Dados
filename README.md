@@ -1,2 +1,2 @@
-# Estrutura-de-Dados
-Atividades em Go! para estudos de estrutura da dados
+# Programação Orientada a Objetos
+* Repositório de estudos de Programação Orientada a Objetos em C++
